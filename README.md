@@ -8,7 +8,10 @@ Shape_Tech is an online e-commerce store which focuses on selling quality wearab
 - https://github.com/FrankVere
 - https://github.com/RakinBhuiyan1997
 
-https://user-images.githubusercontent.com/91225565/171091505-6b6fba0f-06a4-4fdc-8a1a-24040bdae493.mov
+
+
+https://user-images.githubusercontent.com/91225565/171276539-6117e916-1828-4962-97f7-9ff2f410bc80.mov
+
 
 
 ## Features
