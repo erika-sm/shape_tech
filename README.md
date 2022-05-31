@@ -1,6 +1,15 @@
 ## Description of Shape_Tech
 
-Shape_Tech is an online e-commerce store which focuses on selling quality wearables to enthusiasts of all things tech! Ranging from Fitness to Gaming; whatever you’re looking for, Shape_Tech has a product for you! Erika, Francesco, Rakin, and Hamza are the founders of this expansive e-commerce project and have tailored a refreshing user experience for all customers to enjoy!
+Shape_Tech is an online e-commerce store which focuses on selling quality wearables to enthusiasts of all things tech! Ranging from Fitness to Gaming; whatever you’re looking for, Shape_Tech has a product for you! Erika, Francesco, and Rakin are the founders of this expansive e-commerce project and have tailored a refreshing user experience for all customers to enjoy!
+
+## Creators
+
+- https://github.com/erika-sm
+- https://github.com/FrankVere
+- https://github.com/RakinBhuiyan1997
+
+https://user-images.githubusercontent.com/91225565/171091505-6b6fba0f-06a4-4fdc-8a1a-24040bdae493.mov
+
 
 ## Features
 
