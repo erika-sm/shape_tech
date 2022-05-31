@@ -33,11 +33,6 @@ Shape_Tech is an online e-commerce store which focuses on selling quality wearab
 - Mobile responsive
 - Moment
 
-## Screenshots
-
-![alt text](image.jpg)
-<img src=”sjdnfjks”/>
-
 ## Reflection
 
 _What we enjoyed_
